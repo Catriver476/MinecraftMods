@@ -1,0 +1,12 @@
+[
+  {
+    "block": "drivebywire:controller_hub",
+    "mass": 500.0,
+    "friction": 0.6
+  },
+  {
+    "block": "drivebywire:tweaked_controller_hub",
+    "mass": 500.0,
+    "friction": 0.6
+  }
+]
