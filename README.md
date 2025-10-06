@@ -1,2 +1,3 @@
 # MinecraftMods
-hello read the readme PLS
+So this is a spot to find me modpacks i make for funsies
+enjoy
